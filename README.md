@@ -1,5 +1,5 @@
 # Overview
-In this project I built a predictive model using python coded in jupyter environment,
+In this project I built a predictive model using python coded in the jupyter environment,
 to forecast the number of Olympic medals a country would bring home in a given year based on historical data. 
 Utilizing a dataset of 2000+ previous olympic results, I trained and fit a model on a comprehensive database containing information about countries, their athletes, and past Olympic performances.
 The goal of this model is to predict the number of medals a country is likely to win in future Olympic Games.
